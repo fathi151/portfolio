@@ -259,7 +259,8 @@ document.addEventListener('DOMContentLoaded', function() {
     'TransGuard': {
       title: 'TransGuard',
       description: 'This Banking Fraud Detection System is a comprehensive machine learning application designed to identify fraudulent transactions in real-time. The project uses PySpark for scalable data processing and machine learning, combined with a Streamlit web interface for interactive monitoring and analysis.The system analyzes various transaction features including amount, type, merchant category, location, and timing patterns to detect suspicious activities. It employs both advanced machine learning models and rule-based detection as a fallback system. The application features multiple analytical views: a main dashboard showing key fraud metrics and transaction distributions, detailed transaction analysis with time-based patterns and geographic insights, an interactive fraud detection tool for testing individual transactions, and real-time monitoring capabilities for ongoing transaction surveillance.',
-      tags: ['Desktop App', 'Travel', 'Management', 'Java', 'Booking System'],
+    tags: ['Machine Learning', 'Fraud Detection', 'Data Analysis', 'Python', 'Predictive Modeling', 'Financial Analytics'],
+
       year: '2022',
       demoLink: '#',
       codeLink: 'https://github.com/fathi151/Bank-Fraud-Detection.git',
